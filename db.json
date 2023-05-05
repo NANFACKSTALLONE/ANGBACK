@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "smartphone",
+      "price": 2000,
+      "quantity": 100,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "field bloc",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true
+    }
+  ]
+}
